@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/num">
+        <file>digitalNums/Flat/0.png</file>
+        <file>digitalNums/Flat/1.png</file>
+        <file>digitalNums/Flat/2.png</file>
+        <file>digitalNums/Flat/3.png</file>
+        <file>digitalNums/Flat/4.png</file>
+        <file>digitalNums/Flat/5.png</file>
+        <file>digitalNums/Flat/6.png</file>
+        <file>digitalNums/Flat/7.png</file>
+        <file>digitalNums/Flat/8.png</file>
+        <file>digitalNums/Flat/9.png</file>
+        <file>digitalNums/Flat/cut.png</file>
+        <file>digitalNums/Flat/rightMenuIcon.png</file>
+        <file>digitalNums/Pink/0.png</file>
+        <file>digitalNums/Pink/1.png</file>
+        <file>digitalNums/Pink/2.png</file>
+        <file>digitalNums/Pink/3.png</file>
+        <file>digitalNums/Pink/4.png</file>
+        <file>digitalNums/Pink/5.png</file>
+        <file>digitalNums/Pink/6.png</file>
+        <file>digitalNums/Pink/7.png</file>
+        <file>digitalNums/Pink/8.png</file>
+        <file>digitalNums/Pink/9.png</file>
+        <file>digitalNums/Pink/cut.png</file>
+        <file>digitalNums/Pink/rightMenuIcon.png</file>
+        <file>digitalNums/frame.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>clockIcon.png</file>
+        <file>check.png</file>
+    </qresource>
+    <qresource prefix="/pushButtons">
+        <file>pushButtons/close.png</file>
+        <file>pushButtons/showMinimized.png</file>
+        <file>pushButtons/normal.png</file>
+        <file>pushButtons/hide.png</file>
+    </qresource>
+</RCC>
